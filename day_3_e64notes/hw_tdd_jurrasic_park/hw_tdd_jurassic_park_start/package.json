@@ -1,7 +1,6 @@
 {
-  "name": "hw_fundamentals_jurassic_park_end",
+  "name": "q",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "mocha specs"
@@ -10,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.1.1"
-  }
+    "mocha": "^5.2.0"
+  },
+  "description": ""
 }
